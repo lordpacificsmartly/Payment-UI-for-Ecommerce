@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WeekFourTask-2</string>
+    <string name="darot">An image of a Man</string>
+    <string name="ola_machiav">Ola Machiavelli</string>
+    <string name="image_bell">Image of a Notification Bell</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ivImage">Image</string>
+
+
+    <string-array name="viewpager_names">
+        <item>Darot</item>
+        <item>Ola</item>
+        <item>Dapo</item>
+        <item>Jesse</item>
+    </string-array>
+
+    <string name="favourites">Favorites</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="transfer">Transfer</string>
+    <string name="image_view3">ImageView3</string>
+    <string name="string_dollarsign">Dollar Sign</string>
+    <string name="transfer_card">Transfer Card</string>
+    <string name="partners">Partners</string>
+    <string name="dollar">$</string>
+    <string name="image_view8">ImageView8</string>
+    <string name="digits">231,423,241</string>
+    <string name="cash_loan">Cash loan</string>
+    <string name="dollar2">$</string>
+    <string name="digits2">231,423,241</string>
+    <string name="credit_card">Credit card</string>
+    <string name="qr_code">QR Code</string>
+    <string name="utilities">Utilities</string>
+    <string name="mobile">Mobile</string>
+    <string name="specials">Specials</string>
+    <string name="image_view6">ImageView6</string>
+    <string name="a_house">A House</string>
+    <string name="mobile_phone">Mobile Phone</string>
+    <string name="aliexpress">AliExpress</string>
+</resources>

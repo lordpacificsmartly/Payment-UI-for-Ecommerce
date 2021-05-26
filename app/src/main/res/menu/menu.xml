@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- create menu items for the bottom navigation bar -->
+        <item
+            android:id="@+id/mProducts"
+            android:icon="@drawable/wallet_red"
+            android:title="Products"/>
+
+        <item
+            android:id="@+id/mPayments"
+            android:icon="@drawable/wallet"
+            android:title="Payments"/>
+
+        <item
+            android:id="@+id/mHistory"
+            android:icon="@drawable/history"
+            android:title="History"/>
+
+        <item
+            android:id="@+id/mSupport"
+            android:icon="@drawable/support"
+            android:title="Support"/>
+
+        <item
+            android:id="@+id/mMore"
+            android:icon="@drawable/more"
+            android:title="More" />
+</menu>
